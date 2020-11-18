@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsDLSPresentation", "JenkinsDLSPresentation\JenkinsDLSPresentation.csproj", "{F986E2C4-D578-4508-A180-014E8F79B73F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{FC2EB66B-3D3D-495D-ACD4-287521C49299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F986E2C4-D578-4508-A180-014E8F79B73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F986E2C4-D578-4508-A180-014E8F79B73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F986E2C4-D578-4508-A180-014E8F79B73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F986E2C4-D578-4508-A180-014E8F79B73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2EB66B-3D3D-495D-ACD4-287521C49299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2EB66B-3D3D-495D-ACD4-287521C49299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2EB66B-3D3D-495D-ACD4-287521C49299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2EB66B-3D3D-495D-ACD4-287521C49299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A681C838-96D3-4082-B0E6-404A7DECA93F}
+	EndGlobalSection
+EndGlobal
